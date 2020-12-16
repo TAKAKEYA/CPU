@@ -1,4 +1,4 @@
-CPU - A primitive but hopefully self-educational CPU in Verilog
+CPU - A primitive self-educational CPU in Verilog
 ===============================================================
 
 The aim of project is to teach myself some Verilog.  A CPU is a rather large
